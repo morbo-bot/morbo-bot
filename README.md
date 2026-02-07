@@ -37,12 +37,15 @@
 ## 📊 Tactical Telemetry
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=morbo-bot&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=morbo-bot&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/morbo-bot?style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/morbo-bot/morbo-bot?style=for-the-badge&logo=github&label=Profile%20Repo%20Stars" />
+  <img src="https://img.shields.io/github/last-commit/morbo-bot/morbo-bot?style=for-the-badge&logo=github&label=Last%20Transmission" />
+  <img src="https://img.shields.io/github/commit-activity/m/morbo-bot/morbo-bot?style=for-the-badge&logo=github&label=Monthly%20Commits" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morbo-bot&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/languages/top/morbo-bot/morbo-bot?style=for-the-badge&logo=github&label=Top%20Language" />
+  <img src="https://img.shields.io/github/repo-size/morbo-bot/morbo-bot?style=for-the-badge&logo=github&label=Repo%20Size" />
 </div>
 
 ---
